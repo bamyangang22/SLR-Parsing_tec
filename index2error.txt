@@ -1,0 +1,1 @@
+vtype id semi vtype id ASSIGN rparen lbrace return boolstr semi rbrace

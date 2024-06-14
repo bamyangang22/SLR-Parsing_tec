@@ -1,0 +1,1 @@
+vtype id semi vtype id yammy rparen lbrace return boolstr semi rbrace
